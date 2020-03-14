@@ -5,6 +5,8 @@ Task Delegation
       <li>Password validation, Confirm password validation</li>
 </ul>
 <ul>Amir
+      <li>CSS, HTML and JS</li>
+      <li>Current Address, Home Address</li>
 </ul>
 <ul>Danial
 </ul>
